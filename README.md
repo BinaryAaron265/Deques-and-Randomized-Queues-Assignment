@@ -11,5 +11,5 @@ A double-ended queue  is a generalization of a stack and a queue that supports a
 # Permutation Client
 Created to test the implementation of the randomized queue. It takes a command-line integer k; reads in a sequence of n strings and prints exactl k of them, uniformly at random.
 
-Built With
-The library alg4.jar from the course was used.
+# Etxernal Libraries used
+alg4.jar- this is a tailor made library from coursera.
